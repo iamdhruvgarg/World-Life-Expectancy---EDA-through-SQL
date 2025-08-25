@@ -56,5 +56,5 @@ Key analysis performed in `EDA.sql`:
 
 ## 🚀 How to Run the Project  
 1. Clone this repository:  
-   ```bash git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   ```bash git clone World-Life-Expectancy---EDA-through-SQL
+   cd [World-Life-Expectancy---EDA-through-SQL](https://github.com/iamdhruvgarg/World-Life-Expectancy---EDA-through-SQL)
